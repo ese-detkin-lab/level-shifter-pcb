@@ -31,7 +31,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-IsProjectConflictPreventionWarningsEnabled=0
+IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=87344290-48F7-4111-99C1-2C089F99E8FF
@@ -328,7 +328,7 @@ DItemRevisionGUID=
 
 [Parameter1]
 Name=Author
-Value=
+Value=Andrew Katz
 
 [Configuration1]
 Name=Sources
